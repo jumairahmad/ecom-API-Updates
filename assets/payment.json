@@ -1,0 +1,24 @@
+[
+    {   "cardHolder":"Asif Zardari",
+        "cardNumber": "4321 5678 9455 9871",
+        "CVV":"332",
+        "expiryDate": "11/23",
+        "cardType": "Master",
+        "isDefault":"true"
+    },
+    {   "cardHolder":"Nawaz Sharif",
+        "cardNumber": "1234 5678 9455 5555",
+        "CVV":"212",
+        "expiryDate": "09/27",
+        "cardType": "Master",
+        "isDefault":"false"
+    },
+    {   "cardHolder":"Imran Khan",
+        "cardNumber": "4234 5678 9455 5555",
+        "CVV":"911",
+        "expiryDate": "10/24",
+        "cardType": "Visa",
+        "isDefault":"false"
+    }
+  
+]

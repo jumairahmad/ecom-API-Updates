@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "e_commerce",
+			"path": ".."
+		},
+		{
+			"name": "assets",
+			"path": "../../e_commerce_old/assets"
+		}
+	],
+	"settings": {}
+}

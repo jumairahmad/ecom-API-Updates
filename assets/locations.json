@@ -1,0 +1,40 @@
+[{
+    "locationID": 3,
+    "locationName": "Crony Store NY",
+    "locationAddress": {
+        "address": "Test Address",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "locationlat": "37.786274945940534",
+        "locationlong": "-122.40899756716023"
+    },
+    "locationFeatures": {
+        "Delivery": "true",
+        "Pickup": "true",
+        "Curbside": "true"
+    },
+    "locationContact": {
+        "phone": "2021234567"
+    }
+},
+{
+    "locationID": 4,
+    "locationName": "Crony Store, CA",
+    "locationAddress": {
+        "address": "222 Mason St, San Francisco, CA 94102, United States",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "",
+        "locationlat": "37.78582549041583",
+        "locationlong": "-122.40776378628547"
+    },
+    "locationFeatures": {
+        "Delivery": "true",
+        "Pickup": "true",
+        "Curbside": "true"
+    },
+    "locationContact": {
+        "phone": "(202) 123 4567"
+    }
+}]

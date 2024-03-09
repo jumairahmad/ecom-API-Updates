@@ -1,0 +1,215 @@
+[
+    {
+      "id": "1",
+      "isRequiredTrue": "true",
+      "selectionType": "Multiple",
+      "requiredError": "it is required",
+      "maxItemSelection": "4",
+      "maxIncludedCount": "2",
+      "headText": "Meat",
+      "image": "http://dev.cronypos.com/images/items/898999010007.png",
+      "items": [
+        {
+          "id": "1",
+          "name": "Beef",
+          "price": "2.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        },
+        {
+          "id": "2",
+          "name": "Bacon",
+          "price": "1.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        },
+        {
+          "id": "3",
+          "name": "Mutton",
+          "price": "0.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        },
+        {
+          "id": "4",
+          "name": "Fish",
+          "price": "3.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        },
+        {
+          "id": "5",
+          "name": "Chicken",
+          "price": "0.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        }
+      ],
+      "includedItems": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "2",
+      "isRequiredTrue": "true",
+      "selectionType": "Multiple",
+      "requiredError": "it is required",
+      "maxItemSelection": "3",
+      "maxIncludedCount": "2",
+      "headText": "Cheese",
+      "image": "http://dev.cronypos.com/images/items/898999010007.png",
+      "items": [
+        {
+          "id": "1",
+          "name": "Feta",
+          "price": "2.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        },
+        {
+          "id": "2",
+          "name": "Cheddar",
+          "price": "1.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        },
+        {
+          "id": "3",
+          "name": "Mozaralla",
+          "price": "0.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        },
+        {
+          "id": "4",
+          "name": "Other Cheese",
+          "price": "3.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        }
+      ],
+      "includedItems": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "3",
+      "isRequiredTrue": "true",
+      "selectionType": "Single",
+      "requiredError": "it is required",
+      "maxItemSelection": "1",
+      "maxIncludedCount": "1",
+      "headText": "Bread",
+      "image": "http://dev.cronypos.com/images/items/898999010007.png",
+      "items": [
+        {
+          "id": "1",
+          "name": "White Bread",
+          "price": "0.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        },
+        {
+          "id": "2",
+          "name": "Brown Bread",
+          "price": "1.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        },
+        {
+          "id": "3",
+          "name": "Whole Grain",
+          "price": "0.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        },
+        {
+          "id": "4",
+          "name": "Wheat Bread",
+          "price": "3.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        }
+      ],
+      "includedItems": [
+        1
+      ]
+    },
+    {
+      "id": "4",
+      "isRequiredTrue": "false",
+      "selectionType": "Multi",
+      "requiredError": "it is required",
+      "maxItemSelection": "5",
+      "maxIncludedCount": "3",
+      "headText": "Vegetables",
+      "image": "http://dev.cronypos.com/images/items/898999010007.png",
+      "items": [
+        {
+          "id": "1",
+          "name": "Tomato",
+          "price": "2.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        },
+        {
+          "id": "2",
+          "name": "Onion",
+          "price": "1.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        },
+        {
+          "id": "3",
+          "name": "Lettuce",
+          "price": "0.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        },
+        {
+          "id": "4",
+          "name": "Mushrooms",
+          "price": "2.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        },
+        {
+          "id": "5",
+          "name": "Olives",
+          "price": "4.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        }
+      ],
+      "includedItems": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "5",
+      "isRequiredTrue": "false",
+      "selectionType": "Multi",
+      "requiredError": "it is required",
+      "maxItemSelection": "3",
+      "maxIncludedCount": "2",
+      "headText": "Olives",
+      "image": "http://dev.cronypos.com/images/items/898999010007.png",
+      "items": [
+        {
+          "id": "1",
+          "name": "Black Olive",
+          "price": "2.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        },
+        {
+          "id": "2",
+          "name": "Olive -2",
+          "price": "1.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        },
+        {
+          "id": "3",
+          "name": "Manzanilla Olives",
+          "price": "0.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        },
+        {
+          "id": "4",
+          "name": "Queen Olives",
+          "price": "2.99",
+          "image": "http://dev.cronypos.com/images/items/898999010007.png"
+        }
+      ],
+      "includedItems": [
+        1,
+        2
+      ]
+    }
+  ]

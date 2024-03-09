@@ -1,0 +1,453 @@
+
+   {
+      "orderID":"1",
+      "orderDateTime":"2022-01-06 12:16:49.119225",
+      "orderstatus":"OPEN",
+      "orderSubTotalPrice":"23.90",
+      "locationid":null,
+      "locationname":null,
+      "receipt":{
+         "ordertotal":"25.89",
+         "Tip":"0",
+         "fees":{
+            "Regular Fee":"0.0",
+            "Delivery Fee":"1.99",
+            "Service Fee":"1.99"
+         },
+         "Tax":{
+            "Tax 1":"1.99",
+            "City Tax":"2.99"
+         },
+         "entries":[
+            {
+               "itemEntryDate":"2022-01-06T12:16:49.116862",
+               "name":"QUEST CKIE SNICKERDOODLE",
+               "entryId":"46204",
+               "qty":"2",
+               "special":"true",
+               "regularprice":"2.9900",
+               "finalprice":"2.50",
+               "deal":null,
+               "linetotal":"2.50",
+               "ingredients":
+               [
+                  {
+                  "id": "1",
+                  "isRequiredTrue": "true",
+                  "selectionType": "Multiple",
+                  "requiredError": "it is required",
+                  "maxItemSelection": "4",
+                  "maxIncludedCount": "2",
+                  "headText": "Meat",
+                  "image": "http://dev.cronypos.com/images/items/898999010007.png",
+                  "items": [
+                     {
+                        "id": "1",
+                        "name": "Beef",
+                        "price": "2.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     },
+                     {
+                        "id": "2",
+                        "name": "Bacon",
+                        "price": "1.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     },
+                     {
+                        "id": "3",
+                        "name": "Mutton",
+                        "price": "0.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     },
+                     {
+                        "id": "4",
+                        "name": "Fish",
+                        "price": "3.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     },
+                     {
+                        "id": "5",
+                        "name": "Chicken",
+                        "price": "0.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     }
+                  ],
+                  "includedItems": [
+                     1,
+                     2
+                  ]
+                  },
+                  {
+                  "id": "2",
+                  "isRequiredTrue": "true",
+                  "selectionType": "Multiple",
+                  "requiredError": "it is required",
+                  "maxItemSelection": "3",
+                  "maxIncludedCount": "2",
+                  "headText": "Cheese",
+                  "image": "http://dev.cronypos.com/images/items/898999010007.png",
+                  "items": [
+                     {
+                        "id": "1",
+                        "name": "Feta",
+                        "price": "2.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     },
+                     {
+                        "id": "2",
+                        "name": "Cheddar",
+                        "price": "1.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     },
+                     {
+                        "id": "3",
+                        "name": "Mozaralla",
+                        "price": "0.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     },
+                     {
+                        "id": "4",
+                        "name": "Other Cheese",
+                        "price": "3.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     }
+                  ],
+                  "includedItems": [
+                     2,
+                     3
+                  ]
+                  },
+                  {
+                  "id": "3",
+                  "isRequiredTrue": "true",
+                  "selectionType": "Single",
+                  "requiredError": "it is required",
+                  "maxItemSelection": "1",
+                  "maxIncludedCount": "1",
+                  "headText": "Bread",
+                  "image": "http://dev.cronypos.com/images/items/898999010007.png",
+                  "items": [
+                     {
+                        "id": "1",
+                        "name": "White Bread",
+                        "price": "0.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     },
+                     {
+                        "id": "2",
+                        "name": "Brown Bread",
+                        "price": "1.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     },
+                     {
+                        "id": "3",
+                        "name": "Whole Grain",
+                        "price": "0.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     },
+                     {
+                        "id": "4",
+                        "name": "Wheat Bread",
+                        "price": "3.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     }
+                  ],
+                  "includedItems": [
+                     1
+                  ]
+                  },
+                  {
+                  "id": "4",
+                  "isRequiredTrue": "false",
+                  "selectionType": "Multi",
+                  "requiredError": "it is required",
+                  "maxItemSelection": "5",
+                  "maxIncludedCount": "3",
+                  "headText": "Vegetables",
+                  "image": "http://dev.cronypos.com/images/items/898999010007.png",
+                  "items": [
+                     {
+                        "id": "1",
+                        "name": "Tomato",
+                        "price": "2.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     },
+                     {
+                        "id": "2",
+                        "name": "Onion",
+                        "price": "1.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     },
+                     {
+                        "id": "3",
+                        "name": "Lettuce",
+                        "price": "0.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     },
+                     {
+                        "id": "4",
+                        "name": "Mushrooms",
+                        "price": "2.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     },
+                     {
+                        "id": "5",
+                        "name": "Olives",
+                        "price": "4.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     }
+                  ],
+                  "includedItems": [
+                     1,
+                     2,
+                     3
+                  ]
+                  },
+                  {
+                  "id": "5",
+                  "isRequiredTrue": "false",
+                  "selectionType": "Multi",
+                  "requiredError": "it is required",
+                  "maxItemSelection": "3",
+                  "maxIncludedCount": "2",
+                  "headText": "Olives",
+                  "image": "http://dev.cronypos.com/images/items/898999010007.png",
+                  "items": [
+                     {
+                        "id": "1",
+                        "name": "Black Olive",
+                        "price": "2.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     },
+                     {
+                        "id": "2",
+                        "name": "Olive -2",
+                        "price": "1.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     },
+                     {
+                        "id": "3",
+                        "name": "Manzanilla Olives",
+                        "price": "0.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     },
+                     {
+                        "id": "4",
+                        "name": "Queen Olives",
+                        "price": "2.99",
+                        "image": "http://dev.cronypos.com/images/items/898999010007.png"
+                     }
+                  ],
+                  "includedItems": [
+                     1,
+                     2
+                  ]
+                  }
+               ],
+               "item":{
+                  "id":"46204",
+                  "upc":"888849007738",
+                  "name":"QUEST CKIE SNICKERDOODLE",
+                  "regularprice":"2.9900",
+                  "onspecial":"true",
+                  "specialprice":"2.5000",
+                  "specialexpires":"9/21/2022 12:00:00 AM",
+                  "specialstarts":"9/21/2021 4:23:28 PM",
+                  "specialtype":"",
+                  "specialID":"0",
+                  "contents":"QUEST CKIE SNICKERDOODLE",
+                  "size":"",
+                  "image":"http://dev.cronypos.com/images/items/028400579711.png"
+               }
+            },
+            {
+               "itemEntryDate":"2022-01-06T12:17:14.084599",
+               "name":"SNICKERS MIN PEG PK ",
+               "entryId":"45313",
+               "qty":"1",
+               "special":"true",
+               "regularprice":"1.0000",
+               "finalprice":"0.90",
+               "deal":null,
+               "linetotal":"0.90",
+               "item":{
+                  "id":"45313",
+                  "upc":"0400000150245",
+                  "name":"SNICKERS MIN PEG PK ",
+                  "regularprice":"1.0000",
+                  "onspecial":"true",
+                  "specialprice":"0.9000",
+                  "specialexpires":"12/30/2022 12:00:00 AM",
+                  "specialstarts":"4/19/2021 8:56:15 AM",
+                  "specialtype":"",
+                  "specialID":"27",
+                  "contents":"SNICKERS MIN PEG PK ",
+                  "size":"",
+                  "image":"http://dev.cronypos.com/images/items/000400005384.png"
+               }
+            },
+            {
+               "itemEntryDate":"2022-01-06T12:17:32.065350",
+               "name":"Vita Coco 16.9oz",
+               "entryId":"68_1",
+               "qty":"1",
+               "special":"false",
+               "regularprice":"0",
+               "finalprice":"4.50",
+               "deal":{
+                  "deal":{
+                     "dealid":"68",
+                     "dealname":"Vita Coco 16.9oz",
+                     "image":"http://dev.cronypos.com/images/items/898999010007.png",
+                     "odditemdiscount":"false",
+                     "discounttype":"price",
+                     "dealrules":[
+                        {
+                           "qty":"2",
+                           "priceeach":"2.2500"
+                        }
+                     ]
+                  },
+                  "itemList":[
+                     {
+                        "id":"8825",
+                        "upc":"898999030005",
+                        "name":"VITA COCO 0.5L",
+                        "regularprice":"3.3900",
+                        "onspecial":"false",
+                        "specialprice":"0.0000",
+                        "specialexpires":"10/1/2016 12:00:00 AM",
+                        "specialstarts":"10/1/2016 12:00:00 AM",
+                        "specialtype":"",
+                        "specialID":"68",
+                        "contents":"VITA COCO 0.5L",
+                        "size":"",
+                        "image":"http://dev.cronypos.com/images/place2.png"
+                     }
+                  ]
+               },
+               "linetotal":"4.50",
+               "item":null
+            },
+            {
+               "itemEntryDate":"2022-01-06T12:17:59.183920",
+               "name":"Bai 18oz",
+               "entryId":"69",
+               "qty":"1",
+               "special":"false",
+               "regularprice":"0",
+               "finalprice":"4.50",
+               "deal":{
+                  "deal":{
+                     "dealid":"69",
+                     "dealname":"Bai 18oz",
+                     "image":"http://dev.cronypos.com/images/items/UPLOAD_0_11387_brew.png",
+                     "odditemdiscount":"false",
+                     "discounttype":"price",
+                     "dealrules":[
+                        {
+                           "qty":"2",
+                           "priceeach":"2.2500"
+                        }
+                     ]
+                  },
+                  "itemList":[
+                     {
+                        "id":"15028",
+                        "upc":"852311004013",
+                        "name":"BAI BRAS BLUBRY 18 OZ",
+                        "regularprice":"2.7900",
+                        "onspecial":"false",
+                        "specialprice":"0.0000",
+                        "specialexpires":"10/1/2016 12:00:00 AM",
+                        "specialstarts":"10/1/2016 12:00:00 AM",
+                        "specialtype":"",
+                        "specialID":"69",
+                        "contents":"BAI BRAS BLUBRY 18 OZ",
+                        "size":"",
+                        "image":"http://dev.cronypos.com/images/place2.png"
+                     },
+                     {
+                        "id":"15029",
+                        "upc":"852311004273",
+                        "name":"BAI MALW CNUT 18 OZ",
+                        "regularprice":"2.7900",
+                        "onspecial":"false",
+                        "specialprice":"0.0000",
+                        "specialexpires":"10/1/2016 12:00:00 AM",
+                        "specialstarts":"10/1/2016 12:00:00 AM",
+                        "specialtype":"",
+                        "specialID":"69",
+                        "contents":"BAI MALW CNUT 18 OZ",
+                        "size":"",
+                        "image":"http://dev.cronypos.com/images/place2.png"
+                     }
+                  ]
+               },
+               "linetotal":"4.50",
+               "item":null
+            },
+            {
+               "itemEntryDate":"2022-01-06T12:18:11.838218",
+               "name":"Vita Coco 16.9oz",
+               "entryId":"68",
+               "qty":"2",
+               "special":"false",
+               "regularprice":"0",
+               "finalprice":"4.50",
+               "deal":{
+                  "deal":{
+                     "dealid":"68",
+                     "dealname":"Vita Coco 16.9oz",
+                     "image":"http://dev.cronypos.com/images/items/898999010007.png",
+                     "odditemdiscount":"false",
+                     "discounttype":"price",
+                     "dealrules":[
+                        {
+                           "qty":"2",
+                           "priceeach":"2.2500"
+                        }
+                     ]
+                  },
+                  "itemList":[
+                     {
+                        "id":"8825",
+                        "upc":"898999030005",
+                        "name":"VITA COCO 0.5L",
+                        "regularprice":"3.3900",
+                        "onspecial":"false",
+                        "specialprice":"0.0000",
+                        "specialexpires":"10/1/2016 12:00:00 AM",
+                        "specialstarts":"10/1/2016 12:00:00 AM",
+                        "specialtype":"",
+                        "specialID":"68",
+                        "contents":"VITA COCO 0.5L",
+                        "size":"",
+                        "image":"http://dev.cronypos.com/images/place2.png"
+                     },
+                     {
+                        "id":"11489",
+                        "upc":"898999010007",
+                        "name":"VC PURE CONUT 0.5 OZ",
+                        "regularprice":"3.3900",
+                        "onspecial":"false",
+                        "specialprice":"0.0000",
+                        "specialexpires":"10/1/2016 12:00:00 AM",
+                        "specialstarts":"10/1/2016 12:00:00 AM",
+                        "specialtype":"",
+                        "specialID":"68",
+                        "contents":"VC PURE CONUT 0.5 OZ",
+                        "size":"",
+                        "image":"http://dev.cronypos.com/images/place2.png"
+                     }
+                  ]
+               },
+               "linetotal":"4.50",
+               "item":null
+            }
+         ]
+      }
+   }
+
+
+

@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib/screens/OrderStatus/DeliveryStatusScreen.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/screens/OrderStatus/DeliveryStatusScreen.dart"
+        },
+        {
+            "name": "Current Device",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Android",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "android"
+        },
+        {
+            "name": "iPhone",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "iphone"
+        },
+    ],
+    
+}

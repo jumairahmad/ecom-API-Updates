@@ -1,0 +1,60 @@
+[
+   { "id": "1",
+    "title": "Coupon",
+      "desc": "Order the food you love for less. foodpanda delivers at your doorstep! ",
+      "discount": "15%",
+      "startDate": "2021-12-01",
+      "endDate": "2021-12-20",
+      "isEnabled": "false"
+    },
+    { "id": "2",
+        "title": "Voucher",
+        "desc": "Order the food you love for less. foodpanda delivers at your doorstep! ",
+        "discount": "15.99",
+        "startDate": "2021-12-21",
+        "endDate": "2021-12-29",
+        "isEnabled": "true"
+    },
+    { "id": "3",
+        "title": "Voucher",
+        "desc": "Order the food you love for less. foodpanda delivers at your doorstep! ",
+        "discount": "1.00",
+        "startDate": "2022-01-08",
+        "endDate": "2022-01-24",
+        "isEnabled": "true"
+    },
+    { "id": "4",
+        "title": "Voucher",
+        "desc": "Order the food you love for less. foodpanda delivers at your doorstep! ",
+        "discount": "2.99",
+        "startDate": "2022-01-01",
+        "endDate": "2022-01-20",
+        "isEnabled": "true"
+    },
+    { "id": "5",
+        "title": "Coupon",
+        "desc": "Order the food you love for less. foodpanda delivers at your doorstep! ",
+        "discount": "15%",
+        "startDate": "2022-01-10",
+        "endDate": "2022-01-22",
+        "isEnabled": "true"
+    },
+    { "id": "6",
+        "title": "Coupon",
+        "desc": "Order the food you love for less. foodpanda delivers at your doorstep! ",
+        "discount": "10%",
+        "startDate": "2022-01-23",
+        "endDate": "2022-01-30",
+        "isEnabled": "true"
+    },
+      { "id": "7",
+        "title": "Voucher",
+        "desc": "Order the food you love for less. foodpanda delivers at your doorstep! ",
+        "discount": "2.99",
+        "startDate": "2022-01-23",
+        "endDate": "2022-02-01",
+        "isEnabled": "true"
+    }
+   
+  
+]

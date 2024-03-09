@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956235503503",
+    "project_id": "e-crony",
+    "storage_bucket": "e-crony.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956235503503:android:81849d4d8050a42cbd5dfa",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956235503503-bq3kje214kkgt3k5c73triv2oemes6qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAJz_d1al0nNVesMdG8ypny3D9pdbFlaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956235503503-bq3kje214kkgt3k5c73triv2oemes6qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
